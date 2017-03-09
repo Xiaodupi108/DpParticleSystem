@@ -1,0 +1,38 @@
+<particleEmitterConfig>
+    <texture name="樱花地图.png"></texture>
+    <sourcePosition x="150.00" y="400.00"></sourcePosition>
+    <sourcePositionVariance x="350.00" y="100.00"></sourcePositionVariance>
+    <speed value="0.00"></speed>
+    <speedVariance value="0.00"></speedVariance>
+    <particleLifeSpan value="10.0000"></particleLifeSpan>
+    <particleLifespanVariance value="0.7000"></particleLifespanVariance>
+    <angle value="0.00"></angle>
+    <angleVariance value="0.00"></angleVariance>
+    <gravity x="0.00" y="-8.00"></gravity>
+    <radialAcceleration value="0.00"></radialAcceleration>
+    <tangentialAcceleration value="0.00"></tangentialAcceleration>
+    <radialAccelVariance value="0.00"></radialAccelVariance>
+    <tangentialAccelVariance value="10.00"></tangentialAccelVariance>
+    <startColor alpha="1.00" blue="1.00" green="1.00" red="1.00"></startColor>
+    <startColorVariance alpha="0.00" blue="0.00" green="0.00" red="0.00"></startColorVariance>
+    <finishColor alpha="1.00" blue="1.00" green="1.00" red="1.00"></finishColor>
+    <finishColorVariance alpha="0.00" blue="0.00" green="0.00" red="0.00"></finishColorVariance>
+    <maxParticles value="30"></maxParticles>
+    <startParticleSize value="15.00"></startParticleSize>
+    <startParticleSizeVariance value="6.00"></startParticleSizeVariance>
+    <finishParticleSize value="16.00"></finishParticleSize>
+    <FinishParticleSizeVariance value="6.00"></FinishParticleSizeVariance>
+    <duration value="-1.00"></duration>
+    <emitterType value="0"></emitterType>
+    <maxRadius value="3.00"></maxRadius>
+    <maxRadiusVariance value="3.00"></maxRadiusVariance>
+    <minRadius value="0.00"></minRadius>
+    <rotatePerSecond value="-40.47"></rotatePerSecond>
+    <rotatePerSecondVariance value="-16.06"></rotatePerSecondVariance>
+    <blendFuncSource value="1"></blendFuncSource>
+    <blendFuncDestination value="1"></blendFuncDestination>
+    <rotationStart value="184.97"></rotationStart>
+    <rotationStartVariance value="0.00"></rotationStartVariance>
+    <rotationEnd value="116.34"></rotationEnd>
+    <rotationEndVariance value="1792.84"></rotationEndVariance>
+</particleEmitterConfig>
